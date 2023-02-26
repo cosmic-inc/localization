@@ -1,3 +1,8 @@
 {
+   "test":"test sentence",
+   "test-array":[
+      "first",
+      "second"
+   ],
    "discord-status": "%0 человечков | %1 приколов"
 }
