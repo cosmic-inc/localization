@@ -1,3 +1,7 @@
 {
-  "test": "test sentence"
+   "test":"test sentence",
+   "test-array":[
+      "first",
+      "second"
+   ]
 }
