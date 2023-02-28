@@ -2,7 +2,7 @@
    "add-balance": "&6Транзакции &e> &aБаланс пополнен на &b%0 руб. %1"
    "setting-isnt-available": "&cВам недоступен(-ы) %0&c.",
    "turning-off-setting": "&cВы выключили %0&c.",
-   "discord-status": "АЁУ!",
+   "discord-status": "&c&ltest colorize",
    "discord-link-account": "&cПривяжите аккаунт к дискорду"
    "discord-join-to-server": "&cДля получения ролей необходимо присоединиться к дискорду сервера",
    "discord-you-have-roles": "&aУ вас уже присутствуют все требуемые роли",
