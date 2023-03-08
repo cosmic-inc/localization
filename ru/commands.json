@@ -5,7 +5,11 @@
   "you-need-link":"§cНеобходимо привязать этот аккаунт. Пропишите - /link ник в личных сообщениях бота",
   "unknown-command":"§6Команды §e> §cНеизвестная команда. §eВоспользуйтесь /help",
   "user-isnt-authorized":"§cИгрок не авторизован.",
+  "user-authorized":"§cИгрок уже авторизован.",
+  "undefined-player":"§cИгрок не найден.",
   "server-isnt-support-force-connect":"§cДанный сервер не поддерживает быстрое подключение.",
   "you-have-moved-to-server":"§aВы были перемещены на сервер §b%0§a игроком %1§a.",
-  "you-have-move-to-server":"§aВы переместили игрока %0 на сервер %1§a."
+  "you-have-move-to-server":"§aВы переместили игрока %0 на сервер %1§a.",
+  "command-isnt-available-in-discord":"Эта команда недоступна в дискорде. Воспользуйтесь гайдом https://vk.com/@starfarm_fun-two-step для защиты своего аккаунта через другие соц. сети.",
+  "you-authorized":"§aВы авторизовали %0§a."
 }
