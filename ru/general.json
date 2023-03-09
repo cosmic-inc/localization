@@ -30,5 +30,8 @@
    "notifies-disabled":"Уведомления выключены",
    "notifies-enabled":"Уведомления включены",
    "already-registered":"§cВы уже зарегистрированы!",
-   "password-isnt-matching":"§cПароли не совпадают!"
+   "password-isnt-matching":"§cПароли не совпадают!",
+   "password-changed-kick":"§cПароль изменен.",
+   "broadcast-from":"§7[§4§lОбъявление от §r%0§7] §e%1",
+   "noticed-players":"§aВы оповестили §e%0§a игроков."
 }
